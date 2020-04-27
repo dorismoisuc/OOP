@@ -1,0 +1,23 @@
+c++
+
+LAB5:
+"
+You decide to use the technique called DynamicVector defined by you, from which mana does not leak. Make sure to (unit) test everything.
+
+  All enchantments must take the form:
+
+    mode X (e.g. mode A)
+    add title, type, lastPerformed, timesPerformed, vision (eg. add cleanup, merchant room clean spill, 01-13-1248, 5, sparkling room)
+    update title, newType, newLastPerformed, newTimesPerformed, newVision (eg. update cleanup, merchant room bring bathwater, 01-14-1248, 14, bathing patron)
+    delete title (eg. delete cleanup)
+    list
+    exit
+
+LAB6:
+  "You decide to use higher form of DynamicVector that which uses runes of template! All enchantments must take the form:
+
+          next
+          save title (eg. save cleanup)
+          list type, timesPerformed (list merchant room clean spill, 5)
+          mylist
+  "
