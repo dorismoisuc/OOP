@@ -1,0 +1,14 @@
+Ex1: 
+
+For a list of birth dates, determine the persons who have not lived more than 10.000 days. Remember to "exit" when prompted.
+
+Example test run:
+
+01-01-2019 17-03-1983
+exit
+Expected output:
+
+01-01-2019
+
+
+Ex2: http://www.cs.ubbcluj.ro/~iuliana/oop/Laboratories/Lab2_activity.pdf
