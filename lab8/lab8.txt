@@ -1,0 +1,10 @@
+1,ab,bc,1,cd
+2,bc,cd,2,de
+3,ef,fg,3,gh
+4,hi,ij,4,jk
+5,kl,lm,5,mn
+6,no,op,6,pq
+7,qr,rs,7,st
+8,tu,uv,8,vw
+9,wx,xy,10,yz
+10,zz,zz,10,zz
