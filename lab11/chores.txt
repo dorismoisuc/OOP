@@ -1,0 +1,7 @@
+cleanup,merchant room clean spill,01-01-1990,5,sparkling room
+cookies,kitchen,01-02-1991,7,nice smell
+dusting,bedroom,19-02-2000,1,no more dust
+watering plants,living room,20-02-2000,1,fresh plants
+feeding pets,outside,20-04-2020,2,happy pets
+vacuuming,every room,08-05-1969,5,clean carpets
+preparing meals,kitchen,10-05-2020,2,yummy smell
