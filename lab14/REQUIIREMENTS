@@ -1,0 +1,10 @@
+
+Add a multiple undo and redo functionality for the operations “add”, “remove”, “update” in your repository.
+Implement this functionality using inheritance and polymorphism. 
+You will have a “Undo” and “Redo” buttons on your GUI, 
+as well as a key combination to undo and redo the operations (e.g. Ctrl+Z, Ctrl+Y).
+Create a new window which presents the contents of "mylist"
+This window will contain a list view/table view with all the elements in your list. 
+You must use Qt View/Model components (QListView/QTableView). 
+Create your own model – a class which inherits from QAbstractListModel or QAbstractTableModel.
+This window will be opened from your GUI main window.
