@@ -1,0 +1,6 @@
+"
+Continue your last assignment:
+All functionalities should be available using the GUI. 
+You may use Qt Designer, if you want to change the initial design of your GUI.
+Read from a configuration file at application start, whether to use in memory or file repository.
+"
